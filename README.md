@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Cauã Pavarin Portolan
 
-Me chamo Cauã Pavarin Portolan, tenho 18 anos e sou natural de Santa Catarina, concluí o ensino médio no EEM Governador Celso Ramos, e um também um curso de desenvolvimento de sistemas do SENAI. Atualmente estou em busca estou fazendo fazendo curso de Engenharia de Software na Católica em busca de uma oportunidade profissional, estágio.
+Me chamo Cauã Pavarin Portolan, tenho 18 anos e sou natural de Santa Catarina, concluí o ensino médio no EEM Governador Celso Ramos, e um também um curso de desenvolvimento de sistemas do SENAI. Atualmente estou fazendo curso de Engenharia de Software na Católica em busca de uma oportunidade profissional, estágio.
 
 <p align="left">
     <a href="https://github.com/CauaPavarinP?tab=repositories&sort=stargazers">
